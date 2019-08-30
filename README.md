@@ -31,7 +31,7 @@ About me
 -----------
  You can follow me at:
 1. [Linkedin](https://github.com/AhmeHalim)
-2. [Linkedin](https://www.youtube.com/channel/UCd8Qj3BANvMHtf0-WGM11_A)
+2. [Linkedin](https://www.linkedin.com/in/ahmed-abd-el-halim/)
 3. [Facebook](https://www.facebook.com/ahmed.elgheny.14)
 
   
