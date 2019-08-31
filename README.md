@@ -1,24 +1,27 @@
 # Topcaliber 
 -----------
 
- a simple and awesome notepad app , It gives you a quick and simple notepad editing experience 
+ a website allows its users to search for jobs in a range of fields.Two types of users can register on the site
+ 1-Job Seeker(candidate) : He can search for a job that suits her abilities and skills.The site also allows him to create his own CV        that enables the applicant companies to access it. The site also allows him to see the path of jobs that applied to it and to know      the status reached by each application . 
+ 2 - Hr (Company) : 
+ 
+
 when you write notes, to-do lists and  shopping lists,
 Color Notes is a good helper to manage your schedules and notes
 
-Live Website
+Live Website preview
 -----------
 * (https://www.topcaliber.org/) 
 
  Key features: 
 -----------
-*  
-* Make alert with sound and LED and Vibration when remider fire
-* Make checklist  notes for shopping and to do list in easy way .
-* Set reminder to your notes, no longer missing you important things.
-* Auto-saved. You don’t have to do anything to save them.
-* Share your notes via e-mail, SMS, and etc.
-* Multi them (White , Dark them) .
-* Can Delete All note with one click
+* authentication by social login [Google and Facebook] and Capatcha for confiremation 
+* Advanced search by name, regions and fields
+* cv genrator for job seekers.
+* make a wish list for saved jobs.
+* tracking the path of submitted applications to know the status of each application.
+* notifications system.
+* 
 
 Screenshot
 -----------
