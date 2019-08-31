@@ -25,8 +25,8 @@ Live Website preview
 
 Screenshot
 -----------
-<p float="left">
-  <img src="topcaliber.png" width="24%" />
+<p>
+  <img src="topcaliber.png" width="100%" />
 </p>
 
 
