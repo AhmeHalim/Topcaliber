@@ -2,7 +2,7 @@
 -----------
 
  a website allows its users to search for jobs in a range of fields.Two types of users can register on the site
- 1-Job Seeker(candidate) : He can search for a job that suits her abilities and skills.The site also allows him to create his own CV        that enables the applicant companies to access it. The site also allows him to see the path of jobs that applied to it and to know      the status reached by each application . 
+ <p>1-Job Seeker(candidate) : He can search for a job that suits her abilities and skills.The site also allows him to create his own CV      that enables the applicant companies to access it. The site also allows him to see the path of jobs that applied to it and to know      the status reached by each application .</p> 
  2 - Hr (Company) : 
  
 
